@@ -49,5 +49,4 @@ hiking (sentini c_stuckey)
 Use Menu shortcuts, or use the terminal within Visual Studio Code to type in commands.
 
 ## Finally, submit a pull request to the shared repository
-In your own fork, click on Contribute -> Open Pull Request. Fill in a title and optional 
-comment, the create the pull request.
+In your own fork, click on Contribute -> Open Pull Request. In the title, include your first and last name as it shows up on the class roster. Create the pull request.
