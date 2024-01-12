@@ -45,7 +45,7 @@ languages (c_stuckey)
 hiking (sentini c_stuckey)
 ```
 
-## When you are done, commit and push your changes to your own fork of the repository.
+## When you are done, add, commit and push your changes to your own fork of the repository.
 Use Menu shortcuts, or use the terminal within Visual Studio Code to type in commands.
 
 ## Finally, submit a pull request to the shared repository
