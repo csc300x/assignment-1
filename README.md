@@ -46,6 +46,7 @@ hiking (sentini c_stuckey)
 ```
 
 ## When you are done, commit and push your changes to your own fork of the repository.
+Use Menu shortcuts, or use the terminal within Visual Studio Code to type in commands.
 
 ## Finally, submit a pull request to the shared repository
 In your own fork, click on Contribute -> Open Pull Request. Fill in a title and optional 
