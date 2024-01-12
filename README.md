@@ -28,12 +28,12 @@ On GitHub, click on the button for forking this repository to create your own co
 - You should also find a hobby that you share with someone else (i.e. a hobby someone else added that you also enjoy). For the hobby you share, you should add your UNCG ID in parentheses, separated by a single space.
 - Based on the number of people who share the hobby, move the line to the appropriate part of the file where the hobbies shared by the most people are at the bottom of the file and the hobbies shared by the fewest number of people are at the top of the file.
 
-For example, the student_hobies.txt file may look like this when you first download it:
+For example, the student_hobbies.txt file may look like this when you first download it:
 
 ```
 photography (xchen2)
 hiking (sentini)
-rock climbing (atomsko)
+rock climbing (ctomsko)
 ```
 
 Consider a student whose ID is c_stuckey who enjoys languages and also enjoys hiking. After the student has completed this part of the assignment, the file would look as follows:
