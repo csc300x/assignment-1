@@ -49,4 +49,5 @@ hiking (sentini c_stuckey)
 Use Menu shortcuts, or use the terminal within Visual Studio Code to type in commands.
 
 ## Finally, submit a pull request to the shared repository
-In your own fork, click on Contribute -> Open Pull Request. In the title, include your first and last name as it shows up on the class roster. Create the pull request.
+In your own fork, click on Contribute -> Open Pull Request. Before you open the pull request, make sure your fork is up to date with this original repository. 
+If it says you are behind, you will need to merge the original main to your fork main. It's usually a few button clicks but you may need to edit student_hobbies.txt file again to remove the extra text inserted by the merge conflict. In the title of the pull request, include your first and last name as it shows up on the class roster. Create the pull request.
